@@ -13,10 +13,14 @@ Imports:
     details,
     emo,
     ggfortify,
+    janitor,
     remotes,
     rmarkdown,
     rsample,
+    skimr,
     tidymodels,
-    tidyverse
+    tidyverse,
+    tweetrmd
 Remotes: 
-    hadley/emo
+    hadley/emo,
+    gadenbuie/tweetrmd
